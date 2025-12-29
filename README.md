@@ -2,8 +2,7 @@
 
 # ADA (Advanced Digital Agent)
 
-ADA is a modular, extensible personal assistant system that combines face recognition, contextual understanding, and natural language processing to provide a personalized interactive experience. This Project is a Part of,
-[Proximum AI](https://github.com/Proximum-AI)
+ADA is a modular, extensible personal assistant system that combines face recognition, contextual understanding, and natural language processing to provide a personalized interactive experience. 
 
 ## **SYSTEM ARCHITECTURE V1.0**
 
